@@ -1,0 +1,25 @@
+.jumbotron {
+  background-image: url('https://www.spirithospitality.net/images/galleries/locations/greeley/header-greeley2.jpg');
+  background-size: cover;
+}
+
+.background {
+  background-color: skyblue;
+  background-image: background-image: -webkit-gradient(linear, left top, left bottom, from(lightsteelblue), to(skyblue));
+  background-image: -webkit-linear-gradient(top, lightsteelblue, skyblue);
+  background-image: -moz-linear-gradient(top, lightsteelblue, skyblue);
+  background-image: linear-gradient(to bottom, lightsteelblue, skyblue);
+}
+
+.background-2 {
+  background-color: gray;
+  background-image: background-image: -webkit-gradient(linear, left top, left bottom, from(gray), to(white));
+  background-image: -webkit-linear-gradient(top, gray, white);
+  background-image: -moz-linear-gradient(top, gray, white);
+  background-image: linear-gradient(to bottom, gray, white);
+  border: none;
+}
+
+.footer {
+ font-size: 25px;
+}
