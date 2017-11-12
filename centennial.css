@@ -2,7 +2,7 @@
   background-image: url('https://www.spirithospitality.net/images/galleries/locations/greeley/header-greeley2.jpg');
   background-size: cover;
 }
-
+/** Gradient for the background of the body**/
 .background {
   background-color: skyblue;
   background-image: background-image: -webkit-gradient(linear, left top, left bottom, from(lightsteelblue), to(skyblue));
@@ -10,7 +10,7 @@
   background-image: -moz-linear-gradient(top, lightsteelblue, skyblue);
   background-image: linear-gradient(to bottom, lightsteelblue, skyblue);
 }
-
+/** Gradient for cards **/
 .background-2 {
   background-color: gray;
   background-image: background-image: -webkit-gradient(linear, left top, left bottom, from(gray), to(white));
@@ -19,11 +19,11 @@
   background-image: linear-gradient(to bottom, gray, white);
   border: none;
 }
-
+/** footer **/
 .footer {
  font-size: 25px;
 }
-
+/** Link to image lightbox page**/
 .center {
   text-align: center;
 }
