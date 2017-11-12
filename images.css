@@ -4,7 +4,7 @@ body {
     background-size: cover;
 }
 h1 {
-	color: white;
+	color: rgba(0, 0, 0, 0.514);
 	text-align: center
 }
 
@@ -46,4 +46,13 @@ a {
 
 #overlay p {
  color:white; 
+}
+
+.link {
+	margin-left: 50%;
+    width: 90px;
+    height: 40px;
+ }
+  footer {
+	margin-left: 80%;
 }
