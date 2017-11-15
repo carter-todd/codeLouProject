@@ -47,12 +47,12 @@ a {
 #overlay p {
  color:white; 
 }
-/** Styles for the link/button back to homepage**/
+/** Styles for the link/button to homepage**/
 .link {
 	margin-left: 50%;
     width: 90px;
     height: 40px;
  }
-  footer {
+  .footer {
 	margin-left: 80%;
 }

@@ -30,6 +30,18 @@
 
 .link {
   color: gray;
-  margin-left: 40%;
+  margin-left: 43%;
   font-size: 25px;
 }
+@media (max-width: 960px) {
+  .link {
+ margin-left: 35%;
+ }
+}
+
+@media (max-width: 480px) {
+  .link {
+ margin-left: 25%;
+ }
+}
+
